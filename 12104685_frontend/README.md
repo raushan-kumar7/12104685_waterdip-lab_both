@@ -14,9 +14,11 @@ The Hotel Booking Dashboard provides an overview of bookings with options to sel
 - **Tailwind CSS** - Utility-first CSS framework for styling
 
 ### Dashboard
+
 <img width="700px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728838872/Common/hotel_dashboard_tvpkqo.png"/>
 
 ### Installation
+
 To run the frontend of the Hotel Booking Dashboard locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/raushan-kumar7/12104685_waterdip-lab_both.git`

@@ -91,7 +91,7 @@ def bulk_create_tasks(tasks: schemas.BulkTaskCreate, db: Session = Depends(get_d
 
 
 # Delete a Bulk task at once
-@router.delete("/v1/tasks", status_code=204)
+@router.delete("/v1/tasks/bulk", status_code=204)
 def bulk_delete_tasks(tasks: schemas.BulkTaskDelete, db: Session = Depends(get_db)):
     task_ids = [task.id for task in tasks.tasks]
 
