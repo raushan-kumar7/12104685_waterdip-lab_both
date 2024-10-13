@@ -19,8 +19,9 @@ The Hotel Booking Dashboard provides an overview of bookings with options to sel
 ### Installation
 To run the frontend of the Hotel Booking Dashboard locally, follow these steps:
 
-1. Clone the repository: `git clone http`
-2. Install the dependencies: `npm install`
-3. Start the server in development mode: `npm run dev`
-4. Alternatively, to build the project for production: `npm run build`
-5. The server will run at: `http://localhost:5173/`
+1. Clone the repository: `git clone https://github.com/raushan-kumar7/12104685_waterdip-lab_both.git`
+2. Navigate to the frontend directory: `cd 12104685_frontend`
+3. Install the dependencies: `npm install`
+4. Start the server in development mode: `npm run dev`
+5. Alternatively, to build the project for production: `npm run build`
+6. The server will run at: `http://localhost:5173/`
