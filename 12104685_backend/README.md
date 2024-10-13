@@ -43,8 +43,8 @@ Make sure you have the following installed:
 
 ### Task API Image
 
-<img width="700px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728842388/Common/task1_erbiqq.png"/>
-<img width="700px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728842401/Common/task2_ig5pnq.png"/>
+<img width="900px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728842388/Common/task1_erbiqq.png"/>
+<img width="900px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728842401/Common/task2_ig5pnq.png"/>
 
 ## API Endpoints
 
@@ -67,6 +67,7 @@ To run the backend of the Task Management FastAPI locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/raushan-kumar7/12104685_waterdip-lab_both.git`
 2. Navigate to the backend directory:: `cd 12104685_backend`
 3. Set up a virtual environment: Using `Pipenv`: `pipenv install` and `pipenv shell` Or using `venv` and `pip`:
+
    ```bash
      python3 -m venv env
      source env/bin/activate  # On Windows use `env\Scripts\activate`
