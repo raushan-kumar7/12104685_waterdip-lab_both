@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Pyre type checker
+.pyre/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Logs and records
+*.log
+*.out
+*.pid
+*.gz
+
+# Test and coverage reports
+.coverage
+.tox/
+.nox/
+*.coverage
+*.cover
+.cache
+nosetests.xml
+coverage.xml
+*.test
+pytest_cache/
+
+# Environments
+.env
+*.env
+
+# IDE / editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# MyPy
+.mypy_cache/
+
+# FastAPI / Uvicorn specific files
+*.pid
+uvicorn.log
+
+# SQLAlchemy migration files (Alembic)
+migrations/versions/
+
+# Others
+.DS_Store
+Thumbs.db
