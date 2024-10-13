@@ -15,7 +15,7 @@ The Hotel Booking Dashboard provides an overview of bookings with options to sel
 
 ### Dashboard
 
-<img width="700px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728838872/Common/hotel_dashboard_tvpkqo.png"/>
+<img width="950px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728838872/Common/hotel_dashboard_tvpkqo.png"/>
 
 ### Installation
 
