@@ -78,6 +78,9 @@ To run the backend of the Task Management FastAPI locally, follow these steps:
 6. The server will run at: `http://127.0.0.1:8000`
 7. You can access the FastAPI documentation at: `http://127.0.0.1:8000/docs`
 
+
+
+
 # Hotel Booking Dashboard
 
 The Hotel Booking Dashboard provides an overview of bookings with options to select a date range, view the number of adult and children visitors, and track daily visitor counts. It also displays visitors by country, offering valuable insights for managing occupancy and targeting international guests efficiently.
@@ -95,7 +98,7 @@ The Hotel Booking Dashboard provides an overview of bookings with options to sel
 
 ### Dashboard
 
-<img width="950px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728838872/Common/hotel_dashboard_tvpkqo.png"/>
+<img width="1000px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728838872/Common/hotel_dashboard_tvpkqo.png"/>
 
 ### Installation
 

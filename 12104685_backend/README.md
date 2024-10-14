@@ -43,8 +43,8 @@ Make sure you have the following installed:
 
 ### Task API Image
 
-<img width="950px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728845445/Common/task_dqgmmp.png"/>
-<img width="950px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728842401/Common/task2_ig5pnq.png"/>
+<img width="1000px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728845445/Common/task_dqgmmp.png"/>
+<img width="1000px;" src="https://res.cloudinary.com/cloud-alpha/image/upload/v1728842401/Common/task2_ig5pnq.png"/>
 
 ## API Endpoints
 
